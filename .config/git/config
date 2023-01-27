@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Valentin Zwerschke
+	email = vallezw@gmail.com
+
+[init]
+  	defaultBranch = main
+
+[core]
+    editor = vim
+
+[includeIf "gitdir:~/quantco/"]
+  	path = ~/.config/git/quantco-config
