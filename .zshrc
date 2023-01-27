@@ -99,12 +99,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-# Add homebrew
-eval "$(/opt/homebrew/bin/brew shellenv)"
-
-# For dotfiles git bare repo
-alias config='/usr/bin/git --git-dir=/Users/vallezw/.cfg/ --work-tree=/Users/vallezw'
-
-# Test
-echo 'Hello Valle'
