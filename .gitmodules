@@ -1,0 +1,6 @@
+[submodule ".config/iterm2/palenight-iterm2"]
+	path = .config/iterm2/palenight-iterm2
+	url = https://github.com/JonathanSpeek/palenight-iterm2.git
+[submodule ".config/iterm2/github-vscode-theme-iterm"]
+	path = .config/iterm2/github-vscode-theme-iterm
+	url = https://github.com/cdalvaro/github-vscode-theme-iterm.git

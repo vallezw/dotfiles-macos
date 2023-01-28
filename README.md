@@ -7,3 +7,9 @@ These are my dotfiles for my macOS system using git bare repo
 - Install exa in brewfile
 - Create projects and quantco folder
 - Install tmux
+- Import Palenight and Github Light theme into item2
+
+
+## Color themes
+- Light Mode: GitHub Light
+- Dark Mode: Palenight
