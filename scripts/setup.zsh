@@ -1,4 +1,5 @@
 #!/bin/zsh
+# This script is redundant since there is an installation guide in the README.md
 
 # Check if brew exists
 if ! command -v brew &> /dev/null
