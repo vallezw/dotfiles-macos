@@ -12,7 +12,7 @@ The installation is as follows:
 ```shell
 # this is only needed temporarily, the ZSH config includes this line as well, no need to manually add this somewhere.
 alias dots="/usr/bin/git --git-dir=$HOME/.cfg --work-tree=$HOME"
-git clone --bare --recurse-submodules https://www.github.com/vallezw/dotfiles-macos $HOME/.cfg
+git clone --bare --recurse-submodules https://github.com/vallezw/dotfiles-macos $HOME/.cfg
 # this avoids having git status polluted with random files
 dots config --local status.showUntrackedFiles no
 
