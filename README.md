@@ -22,5 +22,6 @@ brew file install
 - Now you can import the palenight and github light theme into iterm2
 
 ## Color themes
-Light Mode: GitHub Light Theme
-Dark Mode: Palenight Theme
+**Light Mode:** GitHub Light Theme
+
+**Dark Mode:** Palenight Theme
