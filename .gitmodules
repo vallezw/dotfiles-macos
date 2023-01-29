@@ -13,3 +13,6 @@
 [submodule ".oh-my-zsh/custom/themes/powerlevel10k"]
 	path = .oh-my-zsh/custom/themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "keyboard-layouts/us-with-german-umlauts"]
+	path = keyboard-layouts/us-with-german-umlauts
+	url = https://github.com/patrick-zippenfenig/us-with-german-umlauts.git
