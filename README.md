@@ -15,9 +15,6 @@ alias dots="/usr/bin/git --git-dir=$HOME/.cfg --work-tree=$HOME"
 git clone --bare --recurse-submodules https://github.com/vallezw/dotfiles-macos $HOME/.cfg
 # this avoids having git status polluted with random files
 dots config --local status.showUntrackedFiles no
-
-# install brew packages
-brew file install
 ```
 - Now you can import the palenight and github light theme into iterm2
 
