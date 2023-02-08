@@ -2,12 +2,13 @@
 [user]
 	name = Valentin Zwerschke
 	email = vallezw@gmail.com
-
+	signingkey = 61E830F509B0BFA9B2D221B2744C7771C4B12E12
 [init]
   	defaultBranch = main
-
 [core]
     editor = vim
+[commit]
+        gpgsign = true
 
 [includeIf "gitdir:~/quantco/"]
   	path = ~/.config/git/quantco-config
